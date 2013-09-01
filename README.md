@@ -1,15 +1,17 @@
-goals
+Graphicsmods.com
+================
 
 Is there a problem?
+-------------------
 PC gamers with the best hardware in the world need the best PC game experience - this means graphics mods if they exist
 
 Has this problem been solved before?
+------------------------------------
 Nope - existing mod resources are HEAVILY text focused
 Feel very web pagey, not fast at all
 
-
-
 Persona
+-------
 Bill
 28, 6 figure salary
 Enjoys games
@@ -41,6 +43,8 @@ Lousy game performance without good reason
 
 
 Features and feature map
+------------------------
+### Easy wins ###
 Incremental search by game title for game and mod finding
 http://tympanus.net/Development/SidebarTransitions/ Slide Along or Scale Up
 http://listjs.com/plugins/fuzzy-search
@@ -49,20 +53,21 @@ No user submitted content - entirely Hung-Su curated to weed out shitty content
 Responsive to enormous desktop screens - 1920px across primary, down to 1080px across http://store.steampowered.com/hwsurvey
 Load content dynamically for a game like experience
 
-Huge screenshots - before and after for each game is sufficient
+Huge screenshots - 2 screenshots @ 1920x1080, before and after for each mod is sufficient
 http://tympanus.net/Development/PageTransitions/ Fade or Different Easing
 
 Screenshots need source, maybe download link
 
-LATER
+### Later ###
 RSS feed / twitter / facebook
 Easy commenting
 
 
 
 Interface
-
+---------
 
 
 
 Architecture
+------------
